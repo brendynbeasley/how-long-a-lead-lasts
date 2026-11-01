@@ -1,0 +1,33 @@
+sample,model,slope,se,ci_low,ci_high,p,intercept,intercept_se,n
+3-digit SIC,Linear hazard on R&D intensity,0.23293,0.22981,-0.21748,0.68335,0.31078,9.20399,1.04944,141
+3-digit SIC,Linear hazard with controls,0.47611,0.32589,-0.16262,1.11485,0.14403,12.85734,3.63581,141
+3-digit SIC,Linear hazard on 2011-13 R&D intensity,0.12182,0.27867,-0.42437,0.66800,0.66201,9.37085,1.05042,141
+3-digit SIC,Lasting leader changes (linear hazard),0.23307,0.14084,-0.04297,0.50912,0.09795,6.92157,0.74380,141
+3-digit SIC,"Leader in last year differs from first (pct, LPM)",4.25219,0.89075,2.50636,5.99803,0.00000,40.12073,4.47292,141
+3-digit SIC,Top-4 turnover (pct) on R&D intensity,-0.05127,0.43402,-0.90194,0.79941,0.90597,36.76566,1.99462,141
+3-digit SIC,Poisson leader changes on R&D intensity,0.04694,0.03112,-0.01404,0.10793,0.13140,-2.00760,0.36315,141
+3-digit SIC,Spearman rank correlation of hazard and R&D,0.05809,,,,0.49387,,,141
+4-digit SIC,Linear hazard on R&D intensity,0.03552,0.22554,-0.40652,0.47757,0.87485,9.24787,1.00456,179
+4-digit SIC,Linear hazard with controls,-0.05814,0.24374,-0.53585,0.41958,0.81147,5.61226,2.90001,179
+4-digit SIC,Linear hazard on 2011-13 R&D intensity,-0.02727,0.24892,-0.51514,0.46060,0.91277,9.37626,0.98641,179
+4-digit SIC,Lasting leader changes (linear hazard),0.14236,0.21215,-0.27344,0.55817,0.50218,6.81254,0.72975,179
+4-digit SIC,"Leader in last year differs from first (pct, LPM)",0.43944,0.91036,-1.34484,2.22372,0.62930,42.05876,4.19027,179
+4-digit SIC,Top-4 turnover (pct) on R&D intensity,0.55040,0.35270,-0.14088,1.24168,0.11863,37.48725,1.83782,179
+4-digit SIC,Poisson leader changes on R&D intensity,-0.00616,0.02499,-0.05514,0.04281,0.80520,-2.77724,0.29467,179
+4-digit SIC,Spearman rank correlation of hazard and R&D,-0.00535,,,,0.94332,,,179
+"3-digit SIC, 10+ filers",Linear hazard on R&D intensity,0.26020,0.23444,-0.19930,0.71970,0.26705,8.51475,1.21131,86
+"3-digit SIC, 10+ filers",Linear hazard with controls,0.46022,0.41478,-0.35274,1.27318,0.26719,12.05828,5.87375,86
+"3-digit SIC, 10+ filers",Linear hazard on 2011-13 R&D intensity,0.28549,0.27241,-0.24843,0.81941,0.29463,8.53863,1.21511,86
+"3-digit SIC, 10+ filers",Lasting leader changes (linear hazard),0.20228,0.15492,-0.10136,0.50592,0.19166,7.12712,0.97629,86
+"3-digit SIC, 10+ filers","Leader in last year differs from first (pct, LPM)",4.71109,0.92984,2.88864,6.53354,0.00000,39.89272,5.85192,86
+"3-digit SIC, 10+ filers",Top-4 turnover (pct) on R&D intensity,-0.59360,0.40000,-1.37759,0.19039,0.13781,39.93398,2.69420,86
+"3-digit SIC, 10+ filers",Poisson leader changes on R&D intensity,0.04701,0.04299,-0.03726,0.13127,0.27422,-2.09816,0.66518,86
+"3-digit SIC, 10+ filers",Spearman rank correlation of hazard and R&D,0.11602,,,,0.28743,,,86
+"3-digit SIC, under 8% R&D",Linear hazard on R&D intensity,0.22480,0.43791,-0.63349,1.08309,0.60771,9.24369,1.10325,137
+"3-digit SIC, under 8% R&D",Linear hazard with controls,0.38867,0.45097,-0.49521,1.27256,0.38877,13.02687,3.84084,137
+"3-digit SIC, under 8% R&D",Linear hazard on 2011-13 R&D intensity,-0.14420,0.42290,-0.97308,0.68468,0.73312,9.52966,1.08366,137
+"3-digit SIC, under 8% R&D",Lasting leader changes (linear hazard),0.13947,0.31020,-0.46851,0.74745,0.65299,6.99940,0.78385,137
+"3-digit SIC, under 8% R&D","Leader in last year differs from first (pct, LPM)",5.12737,2.45318,0.31923,9.93551,0.03661,39.47994,4.73666,137
+"3-digit SIC, under 8% R&D",Top-4 turnover (pct) on R&D intensity,0.84007,0.97185,-1.06473,2.74487,0.38737,36.15423,2.08227,137
+"3-digit SIC, under 8% R&D",Poisson leader changes on R&D intensity,0.03768,0.04230,-0.04523,0.12060,0.37306,-1.98067,0.40240,137
+"3-digit SIC, under 8% R&D",Spearman rank correlation of hazard and R&D,0.03794,,,,0.65981,,,137

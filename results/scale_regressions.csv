@@ -1,0 +1,6 @@
+model,regressor,slope,se,ci_low,ci_high,p,n,r2
+AH scale effect: growth on log research effort,log_effort,-0.52514,0.23235,-0.98054,-0.06974,0.02381,76,0.05457
+Non-scale Schumpeterian: growth on R&D share of GDP,intensity,-0.53147,0.30247,-1.12431,0.06136,0.07890,76,0.03459
+Jones: growth on a linear trend (per year),trend,-0.01582,0.00776,-0.03103,-0.00060,0.04163,76,0.04092
+Decade means: growth on log research effort,log_effort,-0.43029,0.16967,-0.76284,-0.09773,0.01121,8,0.37951
+Decade means: growth on R&D share of GDP,intensity,-0.40515,0.27735,-0.94875,0.13845,0.14408,8,0.22897

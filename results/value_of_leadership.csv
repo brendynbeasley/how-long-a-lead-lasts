@@ -1,0 +1,6 @@
+group,hazard,expected_tenure_years,real_rate,value_multiple_of_profit,value_multiple_no_destruction
+No R&D (under 0.05% of revenue),0.09717,10.29167,0.00395,9.88983,253.29507
+Some R&D (0.05% to 2%),0.07692,13.00000,0.00395,12.36537,253.29507
+R&D-intensive (2% to 8%),0.11722,8.53125,0.00395,8.25327,253.29507
+Research-driven (8% or more),0.11538,8.66667,0.00395,8.37994,253.29507
+All industries,0.09493,10.53448,0.00395,10.11385,253.29507

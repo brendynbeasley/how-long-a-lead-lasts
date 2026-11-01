@@ -1,0 +1,5 @@
+group,industries,leader_changes,industry_years,hazard,hazard_ci_low,hazard_ci_high,expected_tenure_years,median_rd_intensity,lasting_hazard,new_leader_by_end,top4_turnover,industries_with_no_change
+No R&D (under 0.05% of revenue),83,98,1079,0.09082,0.07374,0.11069,11.01020,0.00000,0.06827,0.39759,0.34639,39
+Some R&D (0.05% to 2%),48,66,624,0.10577,0.08180,0.13456,9.45455,0.00666,0.07812,0.47917,0.40625,18
+R&D-intensive (2% to 8%),33,36,429,0.08392,0.05877,0.11618,11.91667,0.03846,0.06566,0.39394,0.43939,16
+Research-driven (8% or more),15,17,195,0.08718,0.05079,0.13958,11.47059,0.12647,0.07778,0.53333,0.43333,6

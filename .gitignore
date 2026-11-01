@@ -1,0 +1,17 @@
+# Raw SEC downloads (Financial Statement Data Sets zips, about 5 GB);
+# the compact files data/raw/sec_firm_years.csv.gz and data/raw/sec_sic.csv are committed
+data/raw/sec/
+*.part
+
+# Secrets
+*.key
+*_key*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
